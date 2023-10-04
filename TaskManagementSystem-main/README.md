@@ -38,7 +38,7 @@ The Task Management System utilizes a combination of technologies to provide a r
 
 To run the Task Management System locally and explore its features, follow these steps:
 
-1. Clone the project repository from https://github.com/amshu0537/Task_Managment_system/edit/main/TaskManagementSystem-main/README.md System to your local machine.
+1. Clone the project repository from https://github.com/amshu0537/Task_Managment_system.git System to your local machine.
 
 2. Navigate to the project's root directory using the command line.
 
